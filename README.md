@@ -1,2 +1,2 @@
-# tacoma_ada_hackathon
+# Tacoma ADA Hackathon 
 Place holder for ADA Hackathon
