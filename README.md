@@ -24,3 +24,4 @@ Note: These are not exclusive to the projects that will be worked on but provide
 
 ##Data Resources
 
+Please refer to the [Data Resources](https://github.com/GeoEngineers/tacoma_ada_hackathon/blob/master/datasources.md) section of the repository for a list of data to use for the hackathon.
