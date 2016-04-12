@@ -29,18 +29,6 @@ Please refer to the [Data Resources](https://github.com/GeoEngineers/tacoma_ada_
 ### General Help
 [New to Github? Get started here.](http://htmlpreview.github.com/?https://github.com/Esri/esri.github.com/blob/master/help/esri-getting-to-know-github.html)
 
-## Resources
-
-* Learn more about Esri's Solutions [Focused Maps and Apps for Your Organization](http://solutions.arcgis.com/).
-
-## Issues
-
-* Find a bug or want to request a new feature?  Please let us know by submitting an issue.
-
-## Contributing
-
-Please see our [guidelines for contributing](http://github.com/Esri/solutions-webappbuilder-widgets/blob/master/CONTRIBUTING.md).
-
 ## Licensing
 
 Licensed under the Apache License, Version 2.0 (the "License");
