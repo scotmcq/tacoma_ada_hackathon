@@ -17,4 +17,10 @@
 
 Note: These are not exclusive to the projects that will be worked on but provide a starting initiative.
 
+* If I am a person with a disability who uses the bus system, how will I know if the path of travel from my residence or business to the bus stop and from the bus stop  to my destinations is accessible?
+* Cities have accessibility information about paths of travel, bus systems have accessibility information about bus stops, how can these pieces be integrated and made usable by individuals with disabilities? 
+* How can accessibility information documented by cities be integrated with bus trip planning software to provide seamless accessibility information for customers with limited mobility? For example, streams/rivers, contours, demographics, vulnerable populations.
+
+
+##Data Resources
 
