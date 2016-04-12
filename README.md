@@ -7,10 +7,10 @@
 <b>Participants:</b>
 * [GeoEngineers](http://www.geoengineers.com)
 * [Esri] (http://www.esri.com)
-* [Institute of Technology at the UWT]
-* [Center for Data Science]
-* [Urban Studies at the UWT]
-* [Pierce County Transit]
-* [City of Tacoma]
+* Institute of Technology at the UWT
+* Center for Data Science
+* Urban Studies at the UWT
+* [Pierce County Transit](http://www.piercetransit.org/)
+* [City of Tacoma](http://www.cityoftacoma.org/)
 
 
