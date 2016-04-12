@@ -13,4 +13,8 @@
 * [Pierce County Transit](http://www.piercetransit.org/)
 * [City of Tacoma](http://www.cityoftacoma.org/)
 
+##Problem Statements
+
+Note: These are not exclusive to the projects that will be worked on but provide a starting initiative.
+
 
