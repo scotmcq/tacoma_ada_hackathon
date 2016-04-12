@@ -33,3 +33,7 @@
 | City of Tacoma Zoning |[City of Tacoma, WA] (http://wspdsmap.ci.tacoma.wa.us/samples/zoning.zip) | Available | Esri Shapefile |
 | City of Tacoma Mobility Master Plan (MoMaP) | [City of Tacoma, WA] (http://wspdsmap.ci.tacoma.wa.us/samples/MoMap.zip) | Available | Esri Shapefile
 
+# Census Data
+| Data Element  | Data Source   | Status   | Format  |
+|---|---|---|---|
+| Census 2010 Tracts  | [US Census](http://wspdsmap.ci.tacoma.wa.us/samples/censusblocks2010.zip)  | Available  | Esri Shapefile
