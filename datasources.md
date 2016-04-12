@@ -4,6 +4,7 @@
 - OpenStreetMap
 - Pierce County, WA GIS data: http://gisdata.piercecowa.opendata.arcgis.com/
 - City of Tacoma, Socrata data feed: https://data.cityoftacoma.org/
+- City of Tacoma, GIS Data: 
 - Transit data
 -- Looks like Pierce County GTFS data is available but FTP does not resolve: https://code.google.com/archive/p/googletransitdatafeed/wikis/PublicFeeds.wiki
 
@@ -25,4 +26,5 @@
 | Pierce County Utility Data   | [Pierce County GIS](http://gisdata.piercecowa.opendata.arcgis.com/datasets?q=Utilities "Utilities")  | Available  | GeoJSON, Esri Shapefile   |
 | Pierce County Taxlots  | [Pierce County GIS](http://gisdata.piercecowa.opendata.arcgis.com/datasets/6ccf2793657c493fa8623676a6dbc653_0)  | Available  | GeoJSON, Esri Shapefile  |
 | City of Tacoma Zoning |[City of Tacoma, WA] (http://wspdsmap.ci.tacoma.wa.us/samples/zoning.zip) | Available | Esri Shapefile |
+| City of Tacoma Mobility Master Plan (MoMaP) | [City of Tacoma, WA] (http://wspdsmap.ci.tacoma.wa.us/samples/MoMap.zip) | Available | Esri Shapefile
 
