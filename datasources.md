@@ -10,3 +10,8 @@
 ## Additional Datasets which may be of value
 - Pierce County Open Data Portal http://gisdata.piercecowa.opendata.arcgis.com/
 
+| Data Element  | Data Source   | URL   | Comments  |
+|---|---|---|---|
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
