@@ -1,16 +1,5 @@
 #Data Sources for Hackathon
 
-## Possible Datasets
-- OpenStreetMap
-- Pierce County, WA GIS data: http://gisdata.piercecowa.opendata.arcgis.com/
-- City of Tacoma, Socrata data feed: https://data.cityoftacoma.org/
-- City of Tacoma, GIS Data: 
-- Transit data
--- Looks like Pierce County GTFS data is available but FTP does not resolve: https://code.google.com/archive/p/googletransitdatafeed/wikis/PublicFeeds.wiki
-
-## Additional Datasets which may be of value
-- Pierce County Open Data Portal http://gisdata.piercecowa.opendata.arcgis.com/
-
 # Transit Data
 | Data Element  | Data Source   | Status   | Comments  |
 |---|---|---|---|
@@ -37,3 +26,14 @@
 | Data Element  | Data Source   | Status   | Format  |
 |---|---|---|---|
 | Census 2010 Tracts  | [US Census](http://wspdsmap.ci.tacoma.wa.us/samples/censusblocks2010.zip)  | Available  | Esri Shapefile
+
+## Possible Datasets
+- OpenStreetMap
+- Pierce County, WA GIS data: http://gisdata.piercecowa.opendata.arcgis.com/
+- City of Tacoma, Socrata data feed: https://data.cityoftacoma.org/
+- City of Tacoma, GIS Data: 
+- Transit data
+-- Looks like Pierce County GTFS data is available but FTP does not resolve: https://code.google.com/archive/p/googletransitdatafeed/wikis/PublicFeeds.wiki
+
+## Additional Datasets which may be of value
+- Pierce County Open Data Portal http://gisdata.piercecowa.opendata.arcgis.com/
