@@ -10,9 +10,19 @@
 ## Additional Datasets which may be of value
 - Pierce County Open Data Portal http://gisdata.piercecowa.opendata.arcgis.com/
 
+# Transit Data
 | Data Element  | Data Source   | URL   | Comments  |
 |---|---|---|---|
 | Bus Routes  |   |   |   |
 | Passenger Data   |   |   |   |
 | Complaints  |   |   |   |
 | Bus Stops | | | |
+
+# Transportation Data
+| Data Element  | Data Source   | URL   | Comments  |
+|---|---|---|---|
+| Pierce County Roads  | Pierce County GIS  | http://gisdata.piercecowa.opendata.arcgis.com/datasets/69c348eaed60458389f8d5c1fb3e5a1f_0   |   |
+| Passenger Data   |   |   |   |
+| Complaints  |   |   |   |
+| Bus Stops | | | |
+
