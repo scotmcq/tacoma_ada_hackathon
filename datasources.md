@@ -22,7 +22,7 @@
 | Data Element  | Data Source   | Status   | Format  |
 |---|---|---|---|
 | Pierce County Roads  | [Pierce County GIS](http://gisdata.piercecowa.opendata.arcgis.com/datasets/69c348eaed60458389f8d5c1fb3e5a1f_0 "Title")  |  Available  | GeoJSON, Esri Shapefile  |
-| Passenger Data   |   |   |   |
+| Pierce County Utility Data   | [Pierce County GIS](http://gisdata.piercecowa.opendata.arcgis.com/datasets?q=Utilities) "Utilities"  | Available  | GeoJSON, Esri Shapefile   |
 | Complaints  |   |   |   |
 | Bus Stops | | | |
 
