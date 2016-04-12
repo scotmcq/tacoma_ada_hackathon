@@ -5,3 +5,5 @@
 - Esri ArcGIS.com data?
 - Socrata data
 - Transit data
+- * Looks like Pierce County GTFS data is available but FTP does not resolve: https://code.google.com/archive/p/googletransitdatafeed/wikis/PublicFeeds.wiki
+
