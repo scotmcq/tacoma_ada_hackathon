@@ -1,5 +1,7 @@
 #Data Sources for Hackathon
 
+This list is a work in progress.  Please feel free to edit this data source list to improve what we have.
+
 # Transit Data
 | Data Element  | Data Source   | Status   | Comments  |
 |---|---|---|---|
@@ -27,7 +29,7 @@
 |---|---|---|---|
 | Census 2010 Tracts  | [US Census](http://wspdsmap.ci.tacoma.wa.us/samples/censusblocks2010.zip)  | Available  | Esri Shapefile
 
-## Possible Datasets
+## Full Datasets List
 - OpenStreetMap
 - Pierce County, WA GIS data: http://gisdata.piercecowa.opendata.arcgis.com/
 - City of Tacoma, Socrata data feed: https://data.cityoftacoma.org/
