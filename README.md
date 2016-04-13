@@ -31,7 +31,7 @@ Wednesday April 20th
 * 4:00 pm - 4:30 pm - Team Announcements
 * More to come here
 
-Wednesday April 21th
+Thursday April 21th
 
 ##Data Resources
 
