@@ -31,14 +31,17 @@ Wednesday April 20th
 * 4:00 pm - 4:30 pm - Team Announcements
 * More to come here
 
-Wednesday April 21th
+Thursday April 21th
 
 ##Data Resources
 
 Please refer to the [Data Resources](https://github.com/GeoEngineers/tacoma_ada_hackathon/blob/master/datasources.md) section of the repository for a list of data to use for the hackathon.
 
-### General Help
+### Github Help
 [New to Github? Get started here.](http://htmlpreview.github.com/?https://github.com/Esri/esri.github.com/blob/master/help/esri-getting-to-know-github.html)
+
+### Hackathon Code of Conduct
+[Please review the code of conduct.](codeofconduct.md)
 
 ## Licensing
 
