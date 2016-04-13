@@ -2,7 +2,7 @@
 
 This list is a work in progress.  Please feel free to edit this data source list to improve what we have.
 
-# OpenStreet Map Data
+# OpenStreetMap Data
 | Data Element  | Data Source   | Status   | Comments  |
 |---|---|---|---|
 | Wheel chair - Nodes  |[OSM Nodes](http://overpass-turbo.eu/s/fCp)   | Available  | Lots of data that needs to be further filtered  |
