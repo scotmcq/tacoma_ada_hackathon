@@ -26,7 +26,7 @@ Note: These are not exclusive to the projects that will be worked on but provide
 * 1:00 pm - 1:30 pm - Problem Discovery
 * 1:30 pm - 1:45 pm - Hackthon Rules and Resources
 * 2:00 pm - 2:30 pm - 3rd Party APIs
-* More to add here....
+* 4:00 pm - 4:30 pm - Team Announcements
 
 ##Data Resources
 
