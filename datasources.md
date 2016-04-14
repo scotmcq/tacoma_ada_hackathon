@@ -13,7 +13,7 @@ This list is a work in progress.  Please feel free to edit this data source list
 |---|---|---|---|
 | Bus Routes  |   |   |   |
 | Passenger Data   |   |   |   |
-| Bus Stops | | | |
+| [Bus Stops] (data/pierce_county_transit/pierce_county_transit_stop.geojson) | Pierce County Transit | | |
 | [Transit Boundary] (data/pierce_county_transit/pierce_county_transit_boundary.geojson) | Pierce County Transit |  | |
 
 # Transportation Data
