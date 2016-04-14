@@ -37,10 +37,10 @@ This list is a work in progress.  Please feel free to edit this data source list
 | Census 2010 Tracts  | [US Census](http://wspdsmap.ci.tacoma.wa.us/samples/censusblocks2010.zip)  | Available  | Esri Shapefile
 
 ## Full Datasets List
-- OpenStreetMap
+- OpenStreetMap http://www.openstreetmap.org/
 - Pierce County, WA GIS data: http://gisdata.piercecowa.opendata.arcgis.com/
 - City of Tacoma, Socrata data feed: https://data.cityoftacoma.org/
-- City of Tacoma, GIS Data: 
+- City of Tacoma, GIS Data: https://www.cityoftacoma.org/government/city_departments/community_and_economic_development/geographic_information_systems__gis_/
 - Transit data
 -- Looks like Pierce County GTFS data is available but FTP does not resolve: https://code.google.com/archive/p/googletransitdatafeed/wikis/PublicFeeds.wiki
 
