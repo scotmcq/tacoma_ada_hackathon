@@ -23,15 +23,17 @@ Note: These are not exclusive to the projects that will be worked on but provide
 
 ##Draft Schedule
 
-Wednesday April 20th
-
+<b>Wednesday April 20th</b>
 * 1:00 pm - 1:30 pm - Problem Discovery
 * 1:30 pm - 1:45 pm - Hackthon Rules and Resources
 * 2:00 pm - 2:30 pm - 3rd Party APIs
-* 4:00 pm - 4:30 pm - Team Announcements
-* More to come here
+* 4:00 pm - 4:30 pm - Team Announcements - Team members, team goals, team needs/resources, etc
+* Team Stand up check in's - Possibly every 2 hours.
 
-Thursday April 21th
+<b>Thursday April 21th</b>
+* 9:30 am - 10:00 am - Team morning stand up checkin.
+* 3:00 pm - 4:00 pm - Team presentations
+* 4:30 pm - 5:00 pm - Team awards
 
 ##Data Resources
 
