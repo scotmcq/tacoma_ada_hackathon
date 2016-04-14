@@ -11,11 +11,11 @@ This list is a work in progress.  Please feel free to edit this data source list
 # Transit Data
 | Data Element  | Data Source   | Status   | Comments  |
 |---|---|---|---|
-| [Bus Routes] (data/pierce_county_transit/pierce_county_transit_routes.geojson)  |   |   |   |
+| [Bus Routes] (data/pierce_county_transit/pierce_county_transit_routes.geojson)  | Pierce County Transit  | Available  |   |
 | Passenger Data   |   |   |   |
-| [Bus Stops] (data/pierce_county_transit/pierce_county_transit_stop.geojson) | Pierce County Transit | | |
-| [Transit Boundary] (data/pierce_county_transit/pierce_county_transit_boundary.geojson) | Pierce County Transit |  | |
-| [Transit Centers] (data/pierce_county_transit/pierce_county_transit_centers_and_park_rides.geojson) | Pierce County Transit |  | |
+| [Bus Stops] (data/pierce_county_transit/pierce_county_transit_stop.geojson) | Pierce County Transit | Available | |
+| [Transit Boundary] (data/pierce_county_transit/pierce_county_transit_boundary.geojson) | Pierce County Transit | Available  | |
+| [Transit Centers] (data/pierce_county_transit/pierce_county_transit_centers_and_park_rides.geojson) | Pierce County Transit | Available | |
 
 # Transportation Data
 | Data Element  | Data Source   | Status   | Format  |
