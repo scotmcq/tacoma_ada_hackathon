@@ -28,10 +28,10 @@ Note: These are not exclusive to the projects that will be worked on but provide
 * 1:30 pm - 1:45 pm - Hackthon Rules and Resources
 * 2:00 pm - 2:30 pm - 3rd Party APIs
 * 4:00 pm - 4:30 pm - Team Announcements - Team members, team goals, team needs/resources, etc
-* Team Stand up check in's - Possibly every 2 hours.
+* Team Stand up check in's - Possibly every 2 hours
 
 <b>Thursday April 21th</b>
-* 9:30 am - 10:00 am - Team morning stand up checkin.
+* 9:30 am - 10:00 am - Team morning stand up check-in
 * 3:00 pm - 4:00 pm - Team presentations
 * 4:30 pm - 5:00 pm - Team awards
 
